@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "995541607314",
+    "firebase_url": "https://natura-bf8ab.firebaseio.com",
+    "project_id": "natura-bf8ab",
+    "storage_bucket": "natura-bf8ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995541607314:android:c8d008fca7e8ca61",
+        "android_client_info": {
+          "package_name": "com.natura.formosa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995541607314-5jgvhdnu6hbcqr28t8o0aop6dvroof9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.natura.formosa",
+            "certificate_hash": "1a27ff0b69a075af92f141c553a418f07124b14a"
+          }
+        },
+        {
+          "client_id": "995541607314-f8l4pndl00nofr52ftnl440suqfmjat1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSxUPtpiS30IaCEKVUMTGOSWjEjoF1Jlc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995541607314-f8l4pndl00nofr52ftnl440suqfmjat1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
